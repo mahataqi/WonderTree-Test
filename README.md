@@ -1,6 +1,7 @@
 
 # WonderTree Test
-Person Tracking
+## Person Tracking
+
 Open object_detection_tutorial.ipynb and run the whole notebook. 
 This notebook is almost similar to the tensorflow object detection api tutorial except the last two cells which have all the functionality for person tracking.
 .
